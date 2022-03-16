@@ -21,6 +21,17 @@
 - [悲观锁和乐观锁介绍及实现方式](https://www.cnblogs.com/faster/p/14293656.html)
 - [epoll的性能为什么比select好？到底是怎么实现的？](https://www.zhihu.com/question/22863976/answer/2360953876)
 
+## 分布式系统
+- [CAP与数据一致性](https://blog.csdn.net/yangguosb/article/details/107340573)
+- [共识算法：Raft](https://www.jianshu.com/p/8e4bbe7e276c)
+
+## Redis
+- [Redis主从库如何实现数据一致（同步）](https://blog.csdn.net/qq_23864697/article/details/110421384)
+- [Redis哨兵机制](https://wangkai.blog.csdn.net/article/details/112302658)
+
 ## 操作系统 
 - [简单！代码原来是这样被CPU跑起来的](https://www.cnblogs.com/jiazhuangdongbiancheng/p/15521829.html)
 - [CPU缓存:怎样写代码让CPU执行更快？](https://zhuanlan.zhihu.com/p/422731540)
+- [操作系统笔记](http://c.biancheng.net/skill/os/)
+- [Linux进程间的通信方式和原理](https://blog.csdn.net/liqihang_dev/article/details/83789867)
+- [磁盘I/O的三种方式对比：标准I/O、直接 I/O、mmap](https://www.cnblogs.com/feng9exe/p/15532553.html)
