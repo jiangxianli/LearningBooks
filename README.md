@@ -28,6 +28,7 @@
 - [共识算法：Raft](https://www.jianshu.com/p/8e4bbe7e276c)
 
 ## Redis
+- [Redis中的IO多路复用机制](https://www.cnblogs.com/reecelin/p/13538382.html)
 - [Redis主从库如何实现数据一致（同步）](https://blog.csdn.net/qq_23864697/article/details/110421384)
 - [Redis哨兵机制](https://wangkai.blog.csdn.net/article/details/112302658)
 
