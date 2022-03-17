@@ -28,6 +28,7 @@
 - [共识算法：Raft](https://www.jianshu.com/p/8e4bbe7e276c)
 
 ## Redis
+- [阿里P8架构师谈：Redis为什么是单线程、及高并发快的3大原因详解](https://zhuanlan.zhihu.com/p/52600663)
 - [Redis中的IO多路复用机制](https://www.cnblogs.com/reecelin/p/13538382.html)
 - [Redis主从库如何实现数据一致（同步）](https://blog.csdn.net/qq_23864697/article/details/110421384)
 - [Redis哨兵机制](https://wangkai.blog.csdn.net/article/details/112302658)
@@ -38,6 +39,7 @@
 - [操作系统笔记](http://c.biancheng.net/skill/os/)
 - [Linux进程间的通信方式和原理](https://blog.csdn.net/liqihang_dev/article/details/83789867)
 - [磁盘I/O的三种方式对比：标准I/O、直接 I/O、mmap](https://www.cnblogs.com/feng9exe/p/15532553.html)
+- [图解：进程怎么绑定 CPU](https://zhuanlan.zhihu.com/p/388356797)
 
 ## 算法
 - [十大经典排序算法（动图演示）](https://www.cnblogs.com/onepixel/articles/7674659.html)
