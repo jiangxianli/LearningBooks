@@ -35,3 +35,7 @@
 - [操作系统笔记](http://c.biancheng.net/skill/os/)
 - [Linux进程间的通信方式和原理](https://blog.csdn.net/liqihang_dev/article/details/83789867)
 - [磁盘I/O的三种方式对比：标准I/O、直接 I/O、mmap](https://www.cnblogs.com/feng9exe/p/15532553.html)
+
+## 算法
+- [十大经典排序算法（动图演示）](https://www.cnblogs.com/onepixel/articles/7674659.html)
+- [拜托，面试别再问我TopK了！！！](https://mp.weixin.qq.com/s/FFsvWXiaZK96PtUg-mmtEw)
