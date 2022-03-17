@@ -42,3 +42,4 @@
 - [十大经典排序算法（动图演示）](https://www.cnblogs.com/onepixel/articles/7674659.html)
 - [拜托，面试别再问我TopK了！！！](https://mp.weixin.qq.com/s/FFsvWXiaZK96PtUg-mmtEw)
 - [最短路径 | 深入浅出Dijkstra算法（一）](https://www.jianshu.com/p/8b3cdca55dc0)
+- [如何k个一组反转链表](https://www.cnblogs.com/labuladong/p/12320488.html)
